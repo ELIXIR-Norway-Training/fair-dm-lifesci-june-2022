@@ -37,7 +37,4 @@ The target audience includes master’s students, PhD candidates, postdoctoral f
 - MoBa Genetics The Norwegian Mother, Father and Child Cohort Study
 - GBIF Norway The Norwegian node of the Global Biodiversity Information Facility
 
-## Schedule
-| 
-
-
+[Click here for schedule.](LINK)
