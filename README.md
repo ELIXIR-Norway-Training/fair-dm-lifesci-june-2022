@@ -4,7 +4,7 @@
 
 ## About
 
-The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. The target audience is current and future life scientists in Norway. [Click here for schedule.](LINK)
+The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. The target audience is current and future life scientists in Norway. [Click here to read the course schedule.](LINK)
 
 ### Learning Objectives
 
@@ -37,4 +37,4 @@ The target audience includes master’s students, PhD candidates, postdoctoral f
 - MoBa Genetics The Norwegian Mother, Father and Child Cohort Study
 - GBIF Norway The Norwegian node of the Global Biodiversity Information Facility
 
-## [Click here for schedule.](LINK)
+## [Click here to read the course schedule.](LINK)
