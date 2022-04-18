@@ -21,21 +21,20 @@
 <th>Session Title (Session Chair)</th>
 <th>Speaker(s)</th>
 <th>Time</th>
-<th>Duration</th>
 </tr>
 </thead>
 <tbody>
   
 <tr>
 <td markdown="span">Introduction by ELIXIR Norway</td>
-<td markdown="span">Introduction to Norwegian Research Infrastructures (RIs)</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-<td markdown="span"></td>
+<td markdown="span">BioMedData Coordinators</td>
+<td markdown="span">09:00-09:10</td>
 </tr>
 
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span">Introduction to Norwegian Research Infrastructures (RIs)</td>
+<td markdown="span">BioMedData Project Area Liasions (PALs)</td>
+<td markdown="span">09:10-09:40</td>
 </td>
 </tr>
 
