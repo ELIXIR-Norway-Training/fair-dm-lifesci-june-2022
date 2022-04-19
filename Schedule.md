@@ -1,6 +1,8 @@
 ## Schedule
 
-<table>
+<div class="datatable-begin"></div>
+            
+<table class="display">
 <colgroup>
 <col width="100%" />
 <thead>
@@ -39,6 +41,9 @@
 </tr>
 
 </tbody>
+
 </table>
+
+<div class="datatable-end"></div>
 
 The schedule may vary slightly depending on the session content decided by the course instructors (speakers).
