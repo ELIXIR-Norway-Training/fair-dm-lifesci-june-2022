@@ -28,13 +28,13 @@ Each session will include time for a short discussion including questions and an
 
 The target audience includes master’s students, PhD candidates, postdoctoral fellows, early-career researchers, and technical staff involved in scientific research in the life sciences in Norway. The course is particularly relevant for users and/or collaborators of the research infrastructures listed below:
 
-- NorSeq The national consortium for sequencing and personalised medicine
-- NOR-Openscreen The consortium for chemical biology and early drug discovery
-- NORMOLIM The Norwegian Molecular Imaging Infrastructure
-- NALMIN The Norwegian Advanced Light Microscopy Imaging Network 
-- NORCRYST The Norwegian Macromolecular Crystallography Consortium 
-- BBMRI-NO The national RI for clinical and population-based biobanks
-- MoBa Genetics The Norwegian Mother, Father and Child Cohort Study
-- GBIF Norway The Norwegian node of the Global Biodiversity Information Facility
+- NorSeq: National consortium for sequencing and personalised medicine
+- NOR-Openscreen: Consortium for chemical biology and early drug discovery
+- NORMOLIM: Norwegian Molecular Imaging Infrastructure
+- NALMIN: Norwegian Advanced Light Microscopy Imaging Network 
+- NORCRYST: Norwegian Macromolecular Crystallography Consortium 
+- BBMRI-NO: National research infrastructure for clinical and population-based biobanks
+- MoBa Genetics: Norwegian Mother, Father and Child Cohort Study
+- GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility
 
 ## [Click here to read the course schedule.](LINK)
