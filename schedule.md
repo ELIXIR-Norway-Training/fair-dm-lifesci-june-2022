@@ -40,3 +40,5 @@
 
 </tbody>
 </table>
+
+The schedule may vary slightly depending on the session content decided by the course instructors (speakers).
