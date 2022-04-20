@@ -37,4 +37,4 @@ The target audience includes master’s students, PhD candidates, postdoctoral f
 - MoBa Genetics: Norwegian Mother, Father and Child Cohort Study
 - GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility
 
-## [Click here to read the course schedule.](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md)
+## [Click here to read the course schedule.](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md). For queries, check out [Frequently Asked Questions document (FAQs.md)](LINK) and/or you can send email to biomeddata@uib.no
