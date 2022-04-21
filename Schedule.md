@@ -28,11 +28,9 @@
 </tr>
 
 <tr>
-<div class="heatMap">
 <td markdown="span">Introduction to Norwegian Research Infrastructures (RIs)</td>
 <td markdown="span">BioMedData Project Area Liasions (PALs)</td>
 <td markdown="span">09:10-09:40</td>
-</div>
 </td>
 </tr>
             
@@ -165,9 +163,38 @@
             
 <tbody>
 <tr>
-<td markdown="span">📝 Evaluation of Day 1</td>
+<td markdown="span">📝 Evaluation of Day 2</td>
 <td markdown="span">BioMedData Coordinators</td>
-<td markdown="span">13:00-13:05</td>
+<td markdown="span">09:00-09:15</td>
 </tr>
+
+<tr>
+<td markdown="span">🟧 👥 Group Activity - Data Management Plan</td>
+<td markdown="span">Breakout Moderators: BioMedData PALs</td>
+<td markdown="span">09:15-10:15</td>
+</td>
+</tr>
+  
+<th colspan=3>☕️ Break, 10:15-10:25</th>
+  
+<tr>
+<td markdown="span">🟧 👥 Activity - Create Data Management Plan in Data Stewardship Wizard</td>
+<td markdown="span">Breakout Moderators: BioMedData Coordinators and PALs</td>
+<td markdown="span">10:25-11:00</td>
+</td>
+</tr>
+
+<tr>
+<td markdown="span">🟨 Metdata Management Collection; Investigation Study Assay (ISA) Framework</td>
+<td markdown="span">Korbinian Bösl and, Marta Eide - Federico Bianchini</td>
+<td markdown="span">11:00-11:40</td>
+</td>
+</tr>
+
+<th colspan=3>Wrap-up; 📝 Evaluation of Day 3 </th> 
+<td markdown="span" 11:40-12:00</td>
+
+</tbody>
+</table>
 
 Questions can be asked during and The schedule may vary slightly depending on the content decided by the course organisers and instructors.
