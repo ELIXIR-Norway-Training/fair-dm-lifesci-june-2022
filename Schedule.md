@@ -78,7 +78,7 @@ Caption: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) license
 </tbody>
 </table>
 
-## Schedule: Wednesday 15 June 2022
+## 🗓 Schedule: Wednesday 15 June 2022
             
 <table>
 <colgroup>
@@ -144,7 +144,7 @@ Caption: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) license
 </tbody>
 </table>
 
-## Schedule: Thursday 16 June 2022
+## 🗓 Schedule: Thursday 16 June 2022
             
 <table>
 <colgroup>
