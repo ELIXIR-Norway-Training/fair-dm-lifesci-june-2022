@@ -1,4 +1,5 @@
-## Frequently Asked Questions
+## ? Frequently Asked Questions
+For queries, please don't hesitate to contact us at biomeddata@uib.no
 
 ### 1. I am a master's student, may I register for the course?
 Yes, the course is open to people of all academic levels.
@@ -17,3 +18,9 @@ Yes, it is relevant for all working with life sciences data regardless of the fu
 
 ### 7. Will I be graded for quizzes and exercises?
 Quizzes and exercises are designed to help you understand and revise the content you will learn throughout the course. There will be no marking and grades.
+
+
+### Important Links
+- [ELIXIR-Norway website](https://elixir.no/)
+- [Read more about BioMedData](https://elixir.no/organization/biomeddata)
+- [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
