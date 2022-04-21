@@ -1,8 +1,9 @@
 ### The course theme is data life cycle:
 
-<img width="307" alt="RDMkit_Circle" src="https://user-images.githubusercontent.com/6730853/164476908-82daac10-9cf8-4ea5-9605-f8aef320ce7e.png">
+<img width="307" alt="RDMkit_Circle" src="https://user-images.githubusercontent.com/6730853/164476908-82daac10-9cf8-4ea5-9605-f8aef320ce7e.png"><br>
+Caption: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) licensed under Creative Commons Attribution 4.0 International License
 
-## Schedule: Tuesday 14 June 2022
+## 🗓 Schedule: Tuesday 14 June 2022
 
 <table>
 <colgroup>
@@ -196,7 +197,7 @@
 </tr>
 
 <tr>
-<td markdown="span">📝 Evaluation of Day 3 abnd Wrap-up</td>
+<td markdown="span">📝 Evaluation of Day 3 and Wrap-up</td>
 <td markdown="span">BioMedData Coordinators</td>
 <td markdown="span">11:40-12:00</td>
 </td>
