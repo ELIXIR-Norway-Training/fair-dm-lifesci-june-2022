@@ -4,7 +4,7 @@
 
 ## About
 
-The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. The course is aimed at current and future life scientists in Norway. [Click here to read the course schedule.](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md)
+The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. The course is aimed at current and future life scientists in Norway. [Click here to read the course schedule.](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no.
 
 ### Learning Objectives
 
@@ -28,28 +28,28 @@ Each session will include time for a short discussion including questions and an
 
 The target audience includes master’s students, PhD candidates, postdoctoral fellows, early-career researchers, and technical staff involved in scientific research in the life sciences in Norway. The course is particularly relevant for users and/or collaborators of the research infrastructures listed below:
 
-- NorSeq: National consortium for sequencing and personalised medicine
-- NOR-Openscreen: Consortium for chemical biology and early drug discovery
-- NORMOLIM: Norwegian Molecular Imaging Infrastructure
-- NALMIN: Norwegian Advanced Light Microscopy Imaging Network 
-- NORCRYST: Norwegian Macromolecular Crystallography Consortium 
-- BBMRI-NO: National research infrastructure for clinical and population-based biobanks
-- MoBa Genetics: Norwegian Mother, Father and Child Cohort Study
-- GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility
+- [NorSeq: National consortium for sequencing and personalised medicine](https://www.norseq.org/)
+- [NOR-Openscreen: Consortium for chemical biology and early drug discovery](http://www.openscreen.no/)
+- [NORMOLIM: Norwegian Molecular Imaging Infrastructure](https://normolim.w.uib.no/)
+- [NALMIN: Norwegian Advanced Light Microscopy Imaging Network](https://nalmin.no/) 
+- [NORCRYST: Norwegian Macromolecular Crystallography Consortium]( https://site.uit.no/norcryst/) 
+- [BBMRI-NO: National research infrastructure for clinical and population-based biobanks](https://bbmri.no/)
+- [MoBa Genetics: Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/studies/moba/)
+- [GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility](https://www.gbif.org/country/NO/summary)
 
 #
 
 ## [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md). <br>
-## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no
-
-# 
 
 
 ### Organisers
-
-
-### Speakers
+- Nazeefa Fatima, Centre for Bioinformatics, University of Oslo
+- Korbinian Bösl, University of Bergen
+- Federico Bianchini, Centre for Bioinformatics, University of Oslo
 
 ### Important Links
-- 
+- [ELIXIR-Norway website](https://elixir.no/)
+- [Read more about BioMedData](https://elixir.no/organization/biomeddata)
 - [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
+
+## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no
