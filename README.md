@@ -1,6 +1,6 @@
-# FAIR Data Management in Life Sciences - 2022 Course by ELIXIR Norway
-
 <img width="500" alt="FAIR_2022_course_ELIXIR-NO" src="https://user-images.githubusercontent.com/6730853/158909638-de82c632-36ba-4e3a-88b4-ed8d7c8be9ed.jpeg">
+
+# FAIR Data Management in Life Sciences - 2022 Course, 1st Edition by ELIXIR Norway
 
 ## About
 
@@ -37,5 +37,19 @@ The target audience includes master’s students, PhD candidates, postdoctoral f
 - MoBa Genetics: Norwegian Mother, Father and Child Cohort Study
 - GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility
 
+#
+
 ## [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md). <br>
-## For queries, check out [Frequently Asked Questions document (FAQs.md)](LINK) and/or you can send email to biomeddata@uib.no
+## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no
+
+# 
+
+
+### Organisers
+
+
+### Speakers
+
+### Important Links
+- 
+- [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
