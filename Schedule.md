@@ -103,7 +103,7 @@
 </tr>
 
 <tr>
-<td markdown="span">💻 4. Data Analysis</td>
+<td markdown="span">⬜️ 4. Data Analysis 💻</td>
 <td markdown="span">Siri Kallhovd, Espen Robertsen, and Erik Hjerde - Alexandra Gade</td>
 <td markdown="span">13:05-13:45</td>
 </td>
