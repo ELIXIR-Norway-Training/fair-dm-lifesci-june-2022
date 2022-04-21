@@ -201,4 +201,5 @@
 </tbody>
 </table>
 
-Questions can be asked during and The schedule may vary slightly depending on the content decided by the course organisers and instructors.
+Questions can be asked during and after each session. <br>
+### Note: The schedule may vary slightly depending on the content decided by the course organisers and instructors.
