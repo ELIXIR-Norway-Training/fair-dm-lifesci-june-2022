@@ -148,9 +148,9 @@
 
 <tbody>
 <colgroup>
-<col width="70%" />
+<col width="40%" />
 <col width="30%" />
-<col width="30%" />
+<col width="40%" />
 </colgroup>
   
 <thead>
@@ -191,8 +191,12 @@
 </td>
 </tr>
 
-<th colspan=3>Wrap-up; 📝 Evaluation of Day 3 </th> 
-<td markdown="span" 11:40-12:00</td>
+<tr>
+<td markdown="span">📝 Evaluation of Day 3 abnd Wrap-up</td>
+<td markdown="span">BioMedData Coordinators</td>
+<td markdown="span">11:40-12:00</td>
+</td>
+</tr>
 
 </tbody>
 </table>
