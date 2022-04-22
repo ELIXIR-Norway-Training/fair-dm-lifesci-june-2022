@@ -24,7 +24,7 @@ The course aims to cover topics covering the whole data life cycle (as shown in 
 
 Each session will include time for a short discussion including questions and answers. We plan to have a group activity on last day of the course that will involve reviewing and discussing how to create a FAIR DMP. In addition, we plan to include a short quiz relevant to each session; learners are recommended to take a quiz during or after the course to help revise and understand the content learned throughout the course.
 
-### Target Audience
+### 👥 Target Audience
 
 The course is aimed at current and future life scientists in Norway. The target audience includes master’s students, PhD candidates, postdoctoral fellows, early-career researchers, and technical staff involved in scientific research in the life sciences in Norway. The course is particularly relevant for users and/or collaborators of the research infrastructures listed below:
 
@@ -38,8 +38,8 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility](https://www.gbif.org/country/NO/summary)
 
 ### Course Schedule and Registration
-[Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) <br>
-[Click here to register](https://nettskjema.no/a/fair-dm-2022)
+🗓 [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) <br>
+➡️ [Click here to register](https://nettskjema.no/a/fair-dm-2022)
 
 ### Organisers
 - Nazeefa Fatima, Centre for Bioinformatics, University of Oslo
