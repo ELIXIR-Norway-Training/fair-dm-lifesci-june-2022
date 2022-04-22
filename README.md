@@ -4,7 +4,7 @@
 
 ### About
 
-The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. [For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no.
+The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no.
 
 ### Learning Objectives
 
