@@ -1,4 +1,4 @@
-## ? Frequently Asked Questions
+## ✏️ Frequently Asked Questions
 For queries, please don't hesitate to contact us at biomeddata@uib.no
 
 ### 1. I am a master's student, may I register for the course?
