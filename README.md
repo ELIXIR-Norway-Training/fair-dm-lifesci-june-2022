@@ -8,13 +8,13 @@
 - Learning Outcomes
 - Learning Activities
 - Target Audience
-- Registration
+- Course Schedule and Registration
 - Organisation
 - Important Links
 
 ### About
 
-The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. The course is aimed at current and future life scientists in Norway. [Click here to read the course schedule.](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no.
+The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. [For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to biomeddata@uib.no.
 
 ### Learning Objectives
 
@@ -36,7 +36,7 @@ Each session will include time for a short discussion including questions and an
 
 ### Target Audience
 
-The target audience includes master’s students, PhD candidates, postdoctoral fellows, early-career researchers, and technical staff involved in scientific research in the life sciences in Norway. The course is particularly relevant for users and/or collaborators of the research infrastructures listed below:
+The course is aimed at current and future life scientists in Norway. The target audience includes master’s students, PhD candidates, postdoctoral fellows, early-career researchers, and technical staff involved in scientific research in the life sciences in Norway. The course is particularly relevant for users and/or collaborators of the research infrastructures listed below:
 
 - [NorSeq: National consortium for sequencing and personalised medicine](https://www.norseq.org/)
 - [NOR-Openscreen: Consortium for chemical biology and early drug discovery](http://www.openscreen.no/)
@@ -47,9 +47,9 @@ The target audience includes master’s students, PhD candidates, postdoctoral f
 - [MoBa Genetics: Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/studies/moba/)
 - [GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility](https://www.gbif.org/country/NO/summary)
 
-### Registration
-•[Click here to register](https://nettskjema.no/a/fair-dm-2022)* <br>
-[Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md).
+### Course Schedule and Registration
+[Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) <br>
+[Click here to register](https://nettskjema.no/a/fair-dm-2022)
 
 ### Organisers
 - Nazeefa Fatima, Centre for Bioinformatics, University of Oslo
