@@ -206,5 +206,4 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </tbody>
 </table>
 
-Questions can be asked during and after each session. <br>
-### Note: The schedule may vary slightly depending on the content decided by the course organisers and instructors.
+## Note: Schedule may vary slightly depending on the content decided by the course organisers and instructors.
