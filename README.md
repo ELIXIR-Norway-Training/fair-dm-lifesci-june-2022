@@ -52,4 +52,4 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [ELIXIR-Norway Data Stewardship Wizard](https://elixir-no.ds-wizard.org/)
 - [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
 
-## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to the organisers at biomeddata@uib.no
+## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to the organisers at contact@bioinfo.no
