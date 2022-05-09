@@ -1,5 +1,5 @@
 ## ✉️ Frequently Asked Questions
-For queries, please don't hesitate to contact us at biomeddata@uib.no
+For queries, please don't hesitate to contact us at contact@bioinfo.no
 
 ### 1. I am a master's student, may I register for the course?
 Yes, the course is open to people of all academic levels.
