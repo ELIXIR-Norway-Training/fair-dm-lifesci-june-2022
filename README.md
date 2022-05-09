@@ -4,7 +4,7 @@
 
 ### About
 
-The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to contact@bioinfo.no.
+The course aims to cover topics covering the whole data life cycle (as shown in the [Research Data Management kit by ELIXIR Europe](https://rdmkit.elixir-europe.org/)) with a specific focus on the implementation of [the FAIR data principles](https://www.go-fair.org/fair-principles/). The goal is to teach the key concepts on how to make life sciences data Findable, Accessible, Interoperable, and Reusable for your research management. For queries, check out [Frequently Asked Questions](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send mail to contact@bioinfo.no.
 
 ### Learning Objectives
 
@@ -38,7 +38,7 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility](https://www.gbif.org/country/NO/summary)
 
 ### Course Schedule and Registration
-🗓 [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/Schedule.md) <br>
+🗓 [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/schedule.md) <br>
 ➡️ [Click here to register](https://nettskjema.no/a/fair-dm-2022)
 
 ### Organisers
@@ -52,4 +52,4 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [ELIXIR-Norway Data Stewardship Wizard](https://elixir-no.ds-wizard.org/)
 - [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
 
-## For queries, check out [Frequently Asked Questions document (FAQs.md)](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send email to the organisers at contact@bioinfo.no
+## For queries, check out [Frequently Asked Questions](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send mail to the organisers at contact@bioinfo.no (use the course title as e-mail subject).
