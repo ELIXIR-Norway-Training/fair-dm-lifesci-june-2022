@@ -25,6 +25,8 @@ Yes, slides will be available via Zenodo/GitHub. More information about material
 ### 9. Will there be similar courses in the future?
 Hopefully, yes. Check out [elixir.no](elixir.no) for future updates.
 
+# 
+
 ### Important Links
 - [ELIXIR-Norway website](https://elixir.no/)
 - [Read more about BioMedData](https://elixir.no/organization/biomeddata)
