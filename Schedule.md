@@ -50,7 +50,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟨 2. Data Collection</td>
-<td markdown="span">Siri Kallhovd, Korbinian Bösl, and Erik Hjerde</td>
+<td markdown="span">Siri Kallhovd, Korbinian Bösl, and Erik Hjerde - Rukaya Sarah Johaadein</td>
 <td markdown="span">10:30-11:00</td>
 </td>
 </tr>
@@ -59,7 +59,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟨 2. Data Collection: Metadata management</td>
-<td markdown="span">Federico Bianchini and Espen Åberg</td>
+<td markdown="span">Federico Bianchini and Espen Åberg - Rukaya Sarah Johaadein</td>
 <td markdown="span">11:10-11:40</td>
 </td>
 </tr>
@@ -118,7 +118,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟦 5. Data Preservation: Storage and Archiving</td>
-<td markdown="span">Thu-Hien To and, Korbinian Bösl</td>
+<td markdown="span">Thu-Hien To and, Korbinian Bösl - Even Birkeland</td>
 <td markdown="span">13:50-14:45</td>
 </td>
 </tr>
@@ -133,7 +133,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </tr>
 
 <tr>
-<td markdown="span">🟥 7. Data Reusability</td>
+<td markdown="span">🟥 7. Data Reusability - Edna Xian Hu</td>
 <td markdown="span">Jenny Ostrop</td>
 <td markdown="span">16:00-16:30</td>
 </td>
