@@ -73,7 +73,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </td>
 </tr>
 
-<th colspan=3>Activity & Wrap-up, 12:30-12:40</th>
+<th colspan=3>Wrap-up, 12:30-12:40</th>
 
 </tbody>
 </table>
