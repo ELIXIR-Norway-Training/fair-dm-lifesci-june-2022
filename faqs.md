@@ -20,7 +20,7 @@ Yes, it is relevant for all working with life sciences data regardless of the fu
 Quizzes and exercises are designed to help you understand and revise the content you will learn throughout the course. There will be no marking and grades.
 
 ### 8. Will the course material be available?
-Yes, slides will be available via Zenodo/GitHub. More information about material availability will be added later.
+Yes, slides will be available via Zenodo/GitHub after the course.
 
 ### 9. Will there be similar courses in the future?
 Hopefully, yes. Check out [elixir.no](elixir.no) for future updates.
