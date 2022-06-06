@@ -197,7 +197,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </tr>
 
 <tr>
-<td markdown="span">📝 Evaluation of Day 3 and Wrap-up</td>
+<td markdown="span">📝 Wrap-up</td>
 <td markdown="span">BioMedData Coordinators</td>
 <td markdown="span">11:40-12:00</td>
 </td>
