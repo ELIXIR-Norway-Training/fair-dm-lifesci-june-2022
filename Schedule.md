@@ -29,13 +29,12 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 <tr>
 <td markdown="span">Introduction by ELIXIR Norway</td>
 <td markdown="span">BioMedData Coordinators</td>
-<td markdown="span">09:00-09:10</td>
+<td markdown="span" rowspan=2> 09:00-09:40</td>
 </tr>
 
 <tr>
 <td markdown="span">Introduction to Norwegian Research Infrastructures (RIs)</td>
 <td markdown="span">BioMedData Project Area Liasions (PALs)</td>
-<td markdown="span">09:10-09:40</td>
 </td>
 </tr>
             
