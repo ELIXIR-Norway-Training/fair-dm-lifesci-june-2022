@@ -39,7 +39,7 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [MoBa Genetics: Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/studies/moba/)
 - [GBIF Norway: The Norwegian node of the Global Biodiversity Information Facility](https://www.gbif.org/country/NO/summary)
 
-### Course Schedule and Registration
+### Course Schedule
 🗓 [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/Schedule.md) <br>
 <!--- ➡️ [Click here to register](https://nettskjema.no/a/fair-dm-2022) --->
 
