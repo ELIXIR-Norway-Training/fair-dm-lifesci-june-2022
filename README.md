@@ -1,6 +1,6 @@
 <img width="500" alt="FAIR_2022_course_ELIXIR-NO" src="https://user-images.githubusercontent.com/6730853/158909638-de82c632-36ba-4e3a-88b4-ed8d7c8be9ed.jpeg">
 
-# FAIR Data Management in Life Sciences - 2022 Course, 1st Edition by ELIXIR Norway
+# FAIR Data Management in Life Sciences - June 2022 Course
 
 ## 14.-16. June, Virtual 
 
