@@ -49,7 +49,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟨 2. Data Collection</td>
-<td markdown="span">Siri Kallhovd, Korbinian Bösl, and Erik Hjerde - Michal Torma or Rukaya Sarah Johaadien</td>
+<td markdown="span">Siri Kallhovd, Korbinian Bösl, and Erik Hjerde - Michal Torma or Rukaya Johaadien</td>
 <td markdown="span">10:30-11:00</td>
 </td>
 </tr>
@@ -58,7 +58,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟨 2. Data Collection: Metadata management</td>
-<td markdown="span">Federico Bianchini and Espen Åberg - Michal Torma</td>
+<td markdown="span">Federico Bianchini and Espen Åberg - Michal Torma or Rukaya Johaadien</td>
 <td markdown="span">11:10-11:40</td>
 </td>
 </tr>
