@@ -133,7 +133,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 <tr>
 <td markdown="span">🟥 7. Data Reusability</td>
-<td markdown="span">Jenny Ostrop - Edna Xian Hu</td>
+<td markdown="span">Jenny Ostrop - Xian Hu (Edna)</td>
 <td markdown="span">16:00-16:30</td>
 </td>
 </tr>
