@@ -38,7 +38,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </td>
 </tr>
             
-<th colspan=3>👥 Activity, 09:40-09:45</th>
+<th colspan=3>👥 Break, 09:40-09:45</th>
 
 <tr>
 <td markdown="span">🟧 1. Data Planning</td>
