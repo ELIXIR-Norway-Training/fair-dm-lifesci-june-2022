@@ -52,7 +52,7 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [ELIXIR-Norway website](https://elixir.no/)
 - [Read more about BioMedData](https://elixir.no/organization/biomeddata)
 - [ELIXIR-Norway Data Stewardship Wizard](https://elixir-no.ds-wizard.org/)
-- [RDMkit](https://rdmkit.elixir-europe.org/)
+- [RDMkit](https://rdmkit.elixir-europe.org/) - Research Data Management kit by ELIXIR Europe
 - [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
 
 ## For queries, check out [Frequently Asked Questions](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send mail to the organisers at contact@bioinfo.no (use the course title as e-mail subject).
