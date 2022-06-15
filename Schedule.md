@@ -102,7 +102,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
             
 <tbody>
 <tr>
-<td markdown="span">📝 Evaluation of Day 1</td>
+<td markdown="span">📝 Quiz Review</td>
 <td markdown="span">BioMedData Coordinators</td>
 <td markdown="span">13:00-13:05</td>
 </tr>
@@ -168,7 +168,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
             
 <tbody>
 <tr>
-<td markdown="span">📝 Evaluation of Day 2</td>
+<td markdown="span">📝 Quiz Review</td>
 <td markdown="span">BioMedData Coordinators</td>
 <td markdown="span">09:00-09:15</td>
 </tr>
