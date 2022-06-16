@@ -3,7 +3,7 @@
 <img width="307" alt="RDMkit_Circle" src="https://user-images.githubusercontent.com/6730853/164476908-82daac10-9cf8-4ea5-9605-f8aef320ce7e.png"><br>
 Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) licensed under Creative Commons Attribution 4.0 International License
 
-<!-- ## 🗓 Schedule: Tuesday 14 June 2022
+## 🗓 Schedule: Tuesday 14 June 2022
 
 <table>
 <colgroup>
@@ -142,7 +142,6 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 </tbody>
 </table>
--->
 
 ## 🗓 Schedule: Thursday 16 June 2022
             
