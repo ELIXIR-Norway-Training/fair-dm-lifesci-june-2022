@@ -190,7 +190,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 </tr>
 
 <tr>
-<td markdown="span">🟨 Metdata Management Collection; Investigation Study Assay (ISA) Framework</td>
+<td markdown="span">🟨 Metadata Management Collection; Investigation Study Assay (ISA) Framework</td>
 <td markdown="span">Korbinian Bösl and, Marta Eide - Federico Bianchini</td>
 <td markdown="span">11:00-11:40</td>
 </td>
