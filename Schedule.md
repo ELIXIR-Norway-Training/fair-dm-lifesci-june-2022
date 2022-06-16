@@ -76,7 +76,6 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 </tbody>
 </table>
--->
 
 ## 🗓 Schedule: Wednesday 15 June 2022
             
@@ -143,6 +142,7 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 
 </tbody>
 </table>
+-->
 
 ## 🗓 Schedule: Thursday 16 June 2022
             
@@ -176,16 +176,16 @@ Image Source: [RDM life cycle from RDMkit](https://rdmkit.elixir-europe.org/) li
 <tr>
 <td markdown="span">🟧 👥 Group Activity - Review Data Management Plan (DMP)</td>
 <td markdown="span">Breakout Moderators: BioMedData PALs</td>
-<td markdown="span">09:15-10:15</td>
+<td markdown="span">09:10-09:55</td>
 </td>
 </tr>
   
-<th colspan=3>☕️ Break, 10:15-10:25</th>
+<th colspan=3>☕️ Break, 09:55-10:00</th>
   
 <tr>
 <td markdown="span">🟧 👥 Activity - Create DMP</td>
 <td markdown="span">Breakout Moderators: BioMedData Coordinators and PALs</td>
-<td markdown="span">10:25-11:00</td>
+<td markdown="span">10:00-10:50</td>
 </td>
 </tr>
 
