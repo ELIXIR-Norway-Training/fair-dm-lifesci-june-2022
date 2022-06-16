@@ -6,4 +6,5 @@
 - Public instance: https://fairdomhub.org/ (free for researchers in Norway) <br>
 Please contact us contact@bioinfo.no if you would like to link projects in NeLS and SEEK
 
+- [FAIR-Aware Tool](https://fairaware.dans.knaw.nl/)
 - [Evaluation Form, Day 3](https://nettskjema.no/a/272528)
