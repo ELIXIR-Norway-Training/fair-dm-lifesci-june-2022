@@ -43,11 +43,6 @@ The course is aimed at current and future life scientists in Norway. The target 
 [Click here to read the course schedule](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/Schedule.md) <br>
 <!--- ➡️ [Click here to register](https://nettskjema.no/a/fair-dm-2022) --->
 
-### Organisers
-- Nazeefa Fatima, Centre for Bioinformatics, University of Oslo
-- Korbinian Bösl, University of Bergen
-- Federico Bianchini, Centre for Bioinformatics, University of Oslo
-
 ### Important Links
 - [ELIXIR-Norway website](https://elixir.no/)
 - [Read more about BioMedData](https://elixir.no/organization/biomeddata)
@@ -55,5 +50,10 @@ The course is aimed at current and future life scientists in Norway. The target 
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Research Data Management kit by ELIXIR Europe
 - [FAIR Principles, GO FAIR](https://www.go-fair.org/fair-principles/)
 - [End-User Course on FAIR Data Management for Life Sciences Research in Norway](https://zenodo.org/record/6104400#.YmFyjZNBxqs) - Deliverable report, available on Zenodo
+
+### Organisers
+- Nazeefa Fatima, Centre for Bioinformatics, University of Oslo
+- Korbinian Bösl, University of Bergen
+- Federico Bianchini, Centre for Bioinformatics, University of Oslo
 
 ## For queries, check out [Frequently Asked Questions](https://github.com/elixir-oslo/fair-dm-2022-course/blob/main/faqs.md) and/or you can send mail to the organisers at contact@bioinfo.no (use the course title as e-mail subject).
